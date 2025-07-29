@@ -1,7 +1,8 @@
 ---
 title: "Thought Leadership"
-layout: single
+layout: page
 permalink: /thought-leadership/
+nav-menu: true
 ---
 
 Explore my recent insights, books, articles, podcast appearances, and speaking engagements.

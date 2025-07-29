@@ -43,6 +43,10 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
+header:
+  layout: "default"
+  nav_icons: false
+  
 # Site navigation
 navigation:
   - title: "Home"

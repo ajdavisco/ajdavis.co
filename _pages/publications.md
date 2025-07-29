@@ -1,10 +1,10 @@
 ---
-title: "Publications"
+title: "Thought Leadership"
 layout: single
-permalink: /publications/
+permalink: /thought-leadership/
 ---
 
-Explore my recent professional contributions across journals, books, and podcasts.
+Explore my recent insights, books, articles, podcast appearances, and speaking engagements.
 
 ### **Books**
 
@@ -12,8 +12,12 @@ Explore my recent professional contributions across journals, books, and podcast
 
 ### **Articles & Papers**
 
-- Add your recent academic papers, conference proceedings, and articles here.
+- Coming soon.
 
 ### **Podcast Appearances**
 
-- List podcasts you've appeared on, with links.
+- Coming soon.
+
+### **Speaking Engagements**
+
+- Coming soon.

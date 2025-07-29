@@ -42,3 +42,16 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+# Site navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Work with AJ"
+    url: /collaborate/
+  - title: "Contact"
+    url: /contact/

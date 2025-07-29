@@ -86,11 +86,14 @@
 				}
 
 				p {
-					font-size: 0.7em;
-					font-weight: _font(weight-bold);
-					letter-spacing: _font(letter-spacing-alt);
-					text-transform: uppercase;
-				}
+    font-size: 1.2em;                // increase font size for readability
+    font-weight: _font(weight-normal); // regular font weight
+    letter-spacing: normal;            // reset letter spacing to default
+    text-transform: none;              // sentence-case instead of uppercase
+    line-height: 1.6;                  // improves line spacing
+    max-width: 800px;                  // limits width for readability
+    margin: 0 auto;                    // centers paragraph if desired
+}
 			}
 		}
 

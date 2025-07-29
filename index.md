@@ -4,8 +4,7 @@ title: AJ Davis – UX Researcher & AI Collaborator
 landing-title: 'UX Researcher & AI Strategist'
 description: Founder of Experiment Zone · Host of The Experiment Zone Podcast · Author of Usability for the World
 image: null
-author_profile:true
-author: null
+author: true
 show_tile: false
 ---
 

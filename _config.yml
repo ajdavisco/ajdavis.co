@@ -1,8 +1,8 @@
 # site settings
 title: "AJ Davis"
-subtitle: "UX Researcher · AI Strategist · Founder of Experiment Zone"
+subtitle: ""UX Researcher · Founder of Experiment Zone · Human-Computer Interaction Expert"
 email: amandadavis AT alum DOT wellesley DOT edu
-description: Hi, I'm AJ Davis. I'm a UX researcher with over 15 years of experience optimizing digital experiences through qualitative and quantitative methods. I help businesses uncover insights, make informed decisions, and deliver exceptional user experiences.
+description: I'm AJ Davis. For over 15 years, I've combined field studies, ethnography, and experimentation to understand how people interact with technology. I help teams translate complex research findings into clear strategies, leading to improved products and more engaging digital experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ajdavis.co" # the base hostname & protocol for your site
 author: AJ Davis
@@ -42,24 +42,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-
-# site navigation
-header:
-  layout: "default"
-  nav_icons: false
-  button:
-    text: "Get Started"
-    url: "/about/"
-  
-  
-navigation:
-  - title: "Home"
-    url: 
-  - title: "About"
-    url: /about/
-  - title: "Thought Leadership"
-    url: /thought-leadership/
-  - title: "Work with AJ"
-    url: /collaborate/
-  - title: "Contact"
-    url: /contact/

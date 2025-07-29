@@ -7,6 +7,14 @@ image: null
 author: true
 show_tile: false
 ---
+
+<style>
+.hero h1, .hero h2, .hero h3, .site-title, .site-subtitle, .hero .button {
+  text-transform: none !important;
+}
+</style>
+
+
 ## Hi! I'm AJ Davis.
 
 I'm a UX researcher and AI strategist with 15+ years of experience helping businesses optimize digital experiences through user research, A/B testing, and human-AI collaboration.

@@ -3,7 +3,7 @@ title: AJ Davis – UX Researcher & AI Collaborator
 subtitle: Founder of Experiment Zone | Host of The Experiment Zone Podcast | Author of Usability for the World
 email: amandadavis@alum.wellesley.edu
 description: AJ Davis is a UX researcher and AI strategist with 15+ years of experience optimizing digital experiences through user research, A/B testing, and human-AI collaboration. She is the founder of Experiment Zone, host of The Experiment Zone Podcast, and co-author of Usability for the World. AJ helps businesses uncover insights, design better experiences, and scale with confidence using data-driven, human-centered methods.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ajdavis.co"# the base hostname & protocol for your site
 author:
 street_address: 

@@ -1,7 +1,8 @@
 ---
 title: "About AJ"
-layout: single
+layout: page
 permalink: /about/
+nav-menu: true
 ---
 
 I'm AJ Davis, a UX researcher and AI strategist with 15+ years of experience. I focus on optimizing digital experiences through user research, A/B testing, and human-AI collaboration.

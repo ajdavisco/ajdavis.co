@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+title: AJ Davis – UX Researcher & AI Collaborator
+landing-title: 'UX Researcher & AI Strategist'
+description: Founder of Experiment Zone · Host of The Experiment Zone Podcast · Author of Usability for the World
 image: null
 author: null
 show_tile: false

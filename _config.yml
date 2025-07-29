@@ -11,7 +11,7 @@ city: Austin
 state: TX
 zip_code: 78741
 country: United States of America
-phone: 
+phone: null
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

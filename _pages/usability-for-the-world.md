@@ -4,6 +4,7 @@ permalink: /thought-leadership/usability-for-the-world/
 image: assets/images/tiles/usability-book.jpg
 excerpt: "Exploring how usability and UX shape sustainable cities and communities."
 show_tile: true
+layout: page
 ---
 
 _Co-edited with Elizabeth Rosenzweig_, _Usability for the World_ explores how usability and user experience (UX) principles contribute to creating sustainable, inclusive, and equitable cities and communities worldwide.

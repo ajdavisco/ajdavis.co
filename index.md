@@ -1,7 +1,7 @@
 ---
 layout: home
 title: AJ Davis Homepage
-landing-title: 'UX Researcher & HCI Leader'
+landing-title: 'UX Researcher & HCI Thought Leader'
 description: Founder of Experiment Zone · Host of The Experiment Zone Podcast · Author of Usability for the World
 image: null
 author: true

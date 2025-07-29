@@ -47,6 +47,10 @@ exclude:
 header:
   layout: "default"
   nav_icons: false
+  button:
+    text: "Get Started"
+    url: "/about/"
+  
   
 navigation:
   - title: "Home"

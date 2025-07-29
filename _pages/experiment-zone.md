@@ -6,6 +6,12 @@ excerpt: "Helping businesses optimize digital experiences through UX research, A
 show_tile: true
 ---
 
-Experiment Zone is my consultancy, where we help companies grow through human-centered UX research, data-driven experimentation, and AI-assisted strategies.
+Experiment Zone is my consultancy, dedicated to helping businesses grow through human-centered UX research, strategic experimentation, and AI-assisted methodologies. We partner closely with organizations to identify key customer insights, design effective digital strategies, and execute data-driven A/B tests that drive measurable growth.
 
-[Learn More →](https://experimentzone.com)
+Our team blends qualitative and quantitative research methods—including usability testing, field studies, surveys, and behavioral analytics—to deeply understand user behavior and optimize customer journeys. By integrating frontier AI tools, we enhance productivity, scale insights, and empower teams to confidently make informed decisions.
+
+We proudly serve diverse industries, providing actionable insights and tangible improvements to businesses looking to elevate their digital experiences.
+
+Interested in learning more?
+
+[Visit Experiment Zone →](https://experimentzone.com){:target="_blank"}

@@ -5,13 +5,6 @@ permalink: /about/
 nav-menu: true
 ---
 
----
-title: "About AJ"
-layout: page
-permalink: /about/
-nav-menu: true
----
-
 I'm AJ Davis, a UX researcher with over 15 years of experience in human-computer interaction (HCI) and digital optimization. My expertise spans qualitative methods such as field studies, ethnography, and usability testing, as well as quantitative approaches including A/B testing and behavioral analytics.
 
 I hold an M.S. in Human Factors in Information Design from Bentley University and a B.A. in Economics from Wellesley College. Prior to founding Experiment Zone, I worked at Google, Clearhead, and Charles River Analytics, focusing on complex user research projects and innovative digital product optimization.

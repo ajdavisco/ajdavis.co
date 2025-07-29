@@ -50,7 +50,7 @@ header:
 # Site navigation
 navigation:
   - title: "Home"
-    url: /
+    url: 
   - title: "About"
     url: /about/
   - title: "Publications"

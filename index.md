@@ -7,10 +7,24 @@ image: null
 author: true
 show_tile: false
 ---
+## Hi! I'm AJ Davis.
 
-Hi! I'm AJ Davis, a UX Researcher & AI Collaborator.  
-I’m the founder of [Experiment Zone](https://experimentzone.com), host of [The Experiment Zone Podcast](https://experimentzone.com/podcast), and editor/author of _Usability for the World_.
+I'm a UX researcher and AI strategist with 15+ years of experience helping businesses optimize digital experiences through user research, A/B testing, and human-AI collaboration.
 
-Welcome to my personal site, where you’ll find projects, articles, and insights on data-driven UX and frontier human-AI collaboration.
+I'm the founder of [Experiment Zone](https://experimentzone.com), host of [The Experiment Zone Podcast](https://experimentzone.com/podcast), and co-author of [_Usability for the World_](https://usabilityfortheworld.com).  
 
-[Explore Projects](/projects) | [About Me](/about) | [Contact Me](/contact)
+My passion is empowering teams to make data-driven, human-centered decisions.
+
+[Learn More About Me →](/about/)  
+[Explore Thought Leadership →](/thought-leadership/)  
+[Work with Me →](/collaborate/)
+
+<style>
+.hero {
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+}
+.site-title, .site-subtitle {
+  color: #ffffff !important; 
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.4) !important;
+}
+</style>

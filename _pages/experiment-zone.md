@@ -4,6 +4,7 @@ permalink: /about/experiment-zone/
 image: assets/images/tiles/experiment-zone.jpg
 excerpt: "Helping businesses optimize digital experiences through UX research, A/B testing, and human-AI collaboration."
 show_tile: true
+layout: page
 ---
 
 Experiment Zone is my consultancy, dedicated to helping businesses grow through human-centered UX research, strategic experimentation, and AI-assisted methodologies. We partner closely with organizations to identify key customer insights, design effective digital strategies, and execute data-driven A/B tests that drive measurable growth.

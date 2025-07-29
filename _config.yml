@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: AJ Davis – UX Researcher & AI Collaborator
+subtitle: Founder of Experiment Zone | Host of The Experiment Zone Podcast | Author of Usability for the World
+email: amandadavis@alum.wellesley.edu
+description: AJ Davis is a UX researcher and AI strategist with 15+ years of experience optimizing digital experiences through user research, A/B testing, and human-AI collaboration. She is the founder of Experiment Zone, host of The Experiment Zone Podcast, and co-author of Usability for the World. AJ helps businesses uncover insights, design better experiences, and scale with confidence using data-driven, human-centered methods.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "ajdavis.co"# the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 
+city: Austin
+state: TX
+zip_code: 78741
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/ajdavisatx
+  Twitter: 
   Facebook:
   Slack:
 
